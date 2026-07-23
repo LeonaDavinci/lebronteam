@@ -3,32 +3,32 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://www.lebronteam.com"),
-  title: "Lebron next team",
+  title: "LeBron next team odds",
   description:
-    "Lebron next team odds and live predictions on where LeBron James signs next. Track team probabilities, announcement dates, and contract sizes in real time.",
+    "LeBron next team odds and live predictions on where LeBron James signs next. Track team probabilities, announcement dates, and contract sizes in real time.",
   keywords: [
-    "Lebron next team",
-    "Lebron next team odds",
-    "Lebron next team prediction",
-    "Lebron next team market",
-    "where will Lebron go next",
+    "LeBron next team",
+    "LeBron next team odds",
+    "LeBron next team prediction",
+    "LeBron next team market",
+    "where will LeBron go next",
   ],
-  applicationName: "LeBronTeam",
-  authors: [{ name: "LeBronTeam" }],
+  applicationName: "LeBron next team odds",
+  authors: [{ name: "LeBron next team odds" }],
   icons: {
     apple: "/logo.svg",
   },
   openGraph: {
-    title: "Lebron next team",
+    title: "LeBron next team odds",
     description:
-      "Lebron next team odds — the community prediction market for where LeBron James plays next. Follow the odds, the timeline, and settle the debate.",
+      "LeBron next team odds — the community prediction market for where LeBron James plays next. Follow the odds, the timeline, and settle the debate.",
     images: ["/lebron-flat.jpg"],
     type: "website",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Lebron next team",
-    description: "Track the Lebron next team odds on where LeBron James signs next.",
+    title: "LeBron next team odds",
+    description: "Track the LeBron next team odds on where LeBron James signs next.",
     images: ["/lebron-flat.jpg"],
   },
 };

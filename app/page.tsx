@@ -115,8 +115,8 @@ export default function Page() {
       <header className="topbar">
         <div className="wrap topbar-inner">
           <a href="/" className="brand">
-            <img className="logo-img" src="/logo.svg" alt="LeBronTeam" width={26} height={26} />
-            LeBron<b>Team</b>
+            <img className="logo-img" src="/logo.svg" alt="LeBron next team odds" width={26} height={26} />
+            LeBron <b>next team odds</b>
           </a>
           <nav className="mainnav">
             <a href="#chance">Markets</a>
@@ -168,7 +168,7 @@ export default function Page() {
         <section className="hero">
           <div className="hero-top">
             <div>
-              <h1>lebron next team odds</h1>
+              <h1>LeBron next team odds</h1>
               <div className="sub">
                 <span className="pill">
                   <span className="live-dot" />
@@ -395,7 +395,7 @@ export default function Page() {
               .
             </div>
             <div className="disclaim">
-              LeBronTeam is not affiliated, associated, authorized, endorsed by, or in any way officially connected
+              LeBron next team odds is not affiliated, associated, authorized, endorsed by, or in any way officially connected
               with the NBA or any team. All trademarks, logos, and brand names are the property of their respective
               owners.
               <br />
@@ -447,8 +447,8 @@ export default function Page() {
         <div className="wrap foot-inner">
           <div className="foot-brand">
             <a href="/" className="brand">
-              <img className="logo-img" src="/logo.svg" alt="LeBronTeam" width={26} height={26} />
-              LeBron<b>Team</b>
+              <img className="logo-img" src="/logo.svg" alt="LeBron next team odds" width={26} height={26} />
+              LeBron <b>next team odds</b>
             </a>
             <p>The community prediction market for where LeBron James plays next. Trade the odds, follow the timeline, and settle the debate.</p>
           </div>
@@ -476,7 +476,7 @@ export default function Page() {
         </div>
         <div className="wrap foot-bottom">
           <span className="disc">
-            © 2026 LeBronTeam. For entertainment and informational purposes only. This is an unofficial fan project and
+            © 2026 LeBron next team odds. For entertainment and informational purposes only. This is an unofficial fan project and
             is not affiliated with the NBA, LeBron James, or any team. Predictions are not financial advice.
           </span>
           <span>Privacy · Terms · Disclosures</span>
