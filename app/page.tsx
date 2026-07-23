@@ -155,7 +155,7 @@ export default function Page() {
             <img className="banner-art" src="/lebron-flat.jpg" alt="LeBron James" />
             <div className="banner-copy">
               <img className="nba-badge" src="/nba-badge.svg" alt="NBA" />
-              <h2>The LeBron Sweepstakes</h2>
+              <h2>Check LeBron's next team odds</h2>
               <p>Track the Lebron next team odds on the biggest free-agency storyline in the league. Where does he sign next?</p>
               <a href="#chance" className="btn btn-gold">
                 See the odds
@@ -168,7 +168,7 @@ export default function Page() {
         <section className="hero">
           <div className="hero-top">
             <div>
-              <h1>Lebron next team</h1>
+              <h1>lebron next team odds</h1>
               <div className="sub">
                 <span className="pill">
                   <span className="live-dot" />
