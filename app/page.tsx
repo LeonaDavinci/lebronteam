@@ -152,7 +152,7 @@ export default function Page() {
         {/* Banner */}
         <section className="banner">
           <div className="wrap banner-inner">
-            <img className="banner-art" src="/lebron-flat.svg" alt="Flat illustration of LeBron James" />
+            <img className="banner-art" src="/lebron-flat.jpg" alt="LeBron James" />
             <div className="banner-copy">
               <img className="nba-badge" src="/nba-badge.svg" alt="NBA" />
               <h2>The LeBron Sweepstakes</h2>

@@ -22,14 +22,14 @@ export const metadata: Metadata = {
     title: "Lebron next team",
     description:
       "Lebron next team odds — the community prediction market for where LeBron James plays next. Follow the odds, the timeline, and settle the debate.",
-    images: ["/lebron-flat.svg"],
+    images: ["/lebron-flat.jpg"],
     type: "website",
   },
   twitter: {
     card: "summary_large_image",
     title: "Lebron next team",
     description: "Track the Lebron next team odds on where LeBron James signs next.",
-    images: ["/lebron-flat.svg"],
+    images: ["/lebron-flat.jpg"],
   },
 };
 
