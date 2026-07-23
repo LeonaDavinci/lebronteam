@@ -24,7 +24,7 @@ async function readJSON(): Promise<Comment[]> {
 async function writeJSON(data: unknown) {
   await put(PATH, JSON.stringify(data), {
     access: "public",
-    allowOverwrite: true,
+    addRandomSuffix: false,
     token: TOKEN,
   });
 }

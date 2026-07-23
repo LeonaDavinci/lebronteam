@@ -20,7 +20,7 @@ async function readJSON(): Promise<Record<string, { yes: number; no: number }>> 
 async function writeJSON(data: unknown) {
   await put(PATH, JSON.stringify(data), {
     access: "public",
-    allowOverwrite: true,
+    addRandomSuffix: false,
     token: TOKEN,
   });
 }

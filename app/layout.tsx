@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://www.lebronteam.com"),
   title: "Lebron next team",
   description:
     "Lebron next team odds and live predictions on where LeBron James signs next. Track team probabilities, announcement dates, and contract sizes in real time.",

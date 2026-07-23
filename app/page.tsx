@@ -11,9 +11,9 @@ const TEAMS = [
   { name: "Dallas", abbr: "DAL", pct: 1, chg: 0, yes: 1, no: 99, color: "#00538c" },
 ];
 const DATES = [
-  { abbr: "JUL30", label: "Before Jul 30, 2026", pct: 45, chg: 20, yes: 45, no: 57 },
-  { abbr: "JUL31", label: "Before Jul 31, 2026", pct: 47, chg: -22, yes: 55, no: 51 },
-  { abbr: "AUG02", label: "Before Aug 2, 2026", pct: 59, chg: -20, yes: 59, no: 43 },
+  { abbr: "JUL30", label: "Before Jul 30, 2026", pct: 45, chg: 20, yes: 45, no: 57, color: "#552583" },
+  { abbr: "JUL31", label: "Before Jul 31, 2026", pct: 47, chg: -22, yes: 55, no: 51, color: "#552583" },
+  { abbr: "AUG02", label: "Before Aug 2, 2026", pct: 59, chg: -20, yes: 59, no: 43, color: "#552583" },
 ];
 const CHART_TEAMS = [
   { key: "MIA", name: "Miami", color: "#f5a623", end: 46 },
