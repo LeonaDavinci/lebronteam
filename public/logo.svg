@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100" role="img" aria-label="LeBronTeam logo">
+  <circle cx="50" cy="50" r="50" fill="#552583"/>
+  <!-- jersey -->
+  <path d="M16 100 C24 82 38 78 50 78 C62 78 76 82 84 100 Z" fill="#3d1e6d"/>
+  <text x="50" y="96" text-anchor="middle" font-family="Arial Black, Arial, sans-serif" font-size="15" font-weight="900" fill="#fdb927">23</text>
+  <!-- neck -->
+  <rect x="42" y="69" width="16" height="14" fill="#d99e72"/>
+  <!-- head -->
+  <path d="M28 44 C28 27 38 19 50 19 C62 19 72 27 72 44 C72 58 65 69 57 72 L43 72 C35 69 28 58 28 44 Z" fill="#e8b98f"/>
+  <!-- side shading for depth -->
+  <path d="M50 19 C62 19 72 27 72 44 C72 58 65 69 57 72 L50 72 Z" fill="#000" opacity=".07"/>
+  <!-- ears -->
+  <circle cx="28" cy="50" r="5" fill="#e8b98f"/>
+  <circle cx="72" cy="50" r="5" fill="#e8b98f"/>
+  <!-- beard (strong jaw) -->
+  <path d="M28 50 C29 70 41 80 50 80 C59 80 71 70 72 50 C68 61 61 65 50 65 C39 65 32 61 28 50 Z" fill="#5e4326"/>
+  <!-- sideburns -->
+  <path d="M28 44 C26 52 28 58 30 62 L33 60 C31 55 30 50 31 45 Z" fill="#4a331e"/>
+  <path d="M72 44 C74 52 72 58 70 62 L67 60 C69 55 70 50 69 45 Z" fill="#4a331e"/>
+  <!-- headband -->
+  <path d="M28 37 Q50 29 72 37 L72 43 Q50 36 28 43 Z" fill="#fdb927"/>
+  <circle cx="50" cy="38" r="2.4" fill="#552583"/>
+  <!-- intense brows -->
+  <path d="M33 43 Q42 39 49 45" stroke="#2e2118" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M51 45 Q58 39 67 43" stroke="#2e2118" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <!-- eyes -->
+  <ellipse cx="41" cy="49" rx="4.2" ry="2.8" fill="#fff"/>
+  <ellipse cx="59" cy="49" rx="4.2" ry="2.8" fill="#fff"/>
+  <circle cx="42" cy="49" r="2" fill="#2a2118"/>
+  <circle cx="58" cy="49" r="2" fill="#2a2118"/>
+  <!-- nose -->
+  <path d="M50 50 L46 59 Q50 61 54 59 Z" fill="#d99e72"/>
+  <!-- mouth (within beard) -->
+  <path d="M44 65 Q50 68 56 65" stroke="#3a2a1a" stroke-width="2" fill="none" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 142" width="120" height="142" role="img" aria-label="NBA badge (stylized placeholder)">
+  <circle cx="60" cy="56" r="52" fill="#0b1f3a"/>
+  <circle cx="60" cy="56" r="52" fill="none" stroke="#fdb927" stroke-width="3"/>
+  <circle cx="60" cy="56" r="30" fill="#e8642a"/>
+  <g stroke="#7a2f12" stroke-width="2.6" fill="none" stroke-linecap="round">
+    <line x1="60" y1="26" x2="60" y2="86"/>
+    <path d="M33 42 q27 18 54 0"/>
+    <path d="M33 70 q27 -18 54 0"/>
+    <line x1="30" y1="56" x2="90" y2="56"/>
+  </g>
+  <text x="60" y="128" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="800" fill="#fdb927" letter-spacing="3">NBA</text>
+</svg>
